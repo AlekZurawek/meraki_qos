@@ -3,6 +3,9 @@ Copies MX QoS settings from one network to lots of networks. Untested in product
 
 Please use with caution and test prior using in production, this script comes with no warranties and is given as is.
 
+Requirements:
+- requests library (install by running pip install requests)
+
 How to run:
 1. Edit networklist.py 
 
